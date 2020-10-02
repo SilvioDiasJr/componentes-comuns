@@ -1,0 +1,1 @@
+Exemplo básico de footer útil para desenvolvimento web.
